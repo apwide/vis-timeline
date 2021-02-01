@@ -2,6 +2,9 @@
 node_modules
 npm-debug.log
 
+.npmrc
+.yarnrc
+
 # ide or system files
 .idea
 .c9
