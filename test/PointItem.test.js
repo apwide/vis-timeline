@@ -137,11 +137,11 @@ describe("Timeline PointItem", () => {
         pointItem.redraw();
         assert.equal(
           pointItem.dom.dot.className,
-          "vis-item vis-dot vis-editable",
+          "vis-item vis-dot vis-editable vis-group-editable",
         );
         assert.equal(
           pointItem.dom.point.className,
-          "vis-item vis-point vis-editable",
+          "vis-item vis-point vis-editable vis-group-editable",
         );
       });
 
@@ -175,11 +175,11 @@ describe("Timeline PointItem", () => {
         pointItem.redraw();
         assert.equal(
           pointItem.dom.dot.className,
-          "vis-item vis-dot vis-editable",
+          "vis-item vis-dot vis-editable vis-group-editable",
         );
         assert.equal(
           pointItem.dom.point.className,
-          "vis-item vis-point vis-editable",
+          "vis-item vis-point vis-editable vis-group-editable",
         );
       });
 
@@ -232,11 +232,11 @@ describe("Timeline PointItem", () => {
         pointItem.redraw();
         assert.equal(
           pointItem.dom.dot.className,
-          "vis-item vis-dot vis-editable",
+          "vis-item vis-dot vis-editable vis-group-editable",
         );
         assert.equal(
           pointItem.dom.point.className,
-          "vis-item vis-point vis-editable",
+          "vis-item vis-point vis-editable vis-group-editable",
         );
       });
 
