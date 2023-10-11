@@ -1,6 +1,9 @@
 # npm files
 node_modules
 npm-debug.log
+.npmrc
+.yarnrc
+yarn-error.log
 
 .npmrc
 .yarnrc
