@@ -1,6 +1,6 @@
 {
-  "name": "vis-timeline",
-  "version": "0.0.0-no-version",
+  "name": "@apwide/vis-timeline",
+  "version": "1.0.0",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "keywords": [
     "chart",
@@ -39,6 +39,7 @@
     "Jeremy Zacharia <30392170+jczacharia@users.noreply.github.com>",
     "Dennis Sterzenbach <dennis.sterzenbach@gmail.com>",
     "Dan Turkenkopf <dturkenk@gmail.com>",
+    "Julien <julien@apwide.com>",
     "Uli Fahrer <Tooa@users.noreply.github.com>",
     "Felix Hayashi <ninshinobi@msn.com>",
     "Ben Morton <ben.morton91@gmail.com>",
@@ -51,7 +52,6 @@
     "Guillaume <guillaume@apwide.com>",
     "Jos de Jong <jos@almende.org>",
     "Joshua Walsh <josh@ymindustries.com>",
-    "Julien <julien.repond@gmail.com>",
     "Steffen Dienst <steffen.dienst@gmail.com>",
     "Tim Pettersen <tim@atlassian.com>",
     "Matthew Strasiotto <39424834+matthewstrasiotto@users.noreply.github.com>",

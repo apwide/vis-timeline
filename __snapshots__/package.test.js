@@ -1,5 +1,5 @@
 exports['Package Exported files 1'] = {
-  "name": "vis-timeline",
+  "name": "@apwide/vis-timeline",
   "files": {
     "HISTORY.md": {
       "empty": false
