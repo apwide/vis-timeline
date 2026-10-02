@@ -421,8 +421,7 @@
     "lint-fix": "oxlint --report-unused-disable-directives-severity error --fix .",
     "clean": "shx rm -rf \"{declarations,dist,esnext,peer,standalone,styles}/*\"",
     "contributors:update": "git-authors-cli",
-    "preparepublish": "npm run contributors:update",
-    "prepublishOnly": "npm run contributors:update && npm run build",
+    "prepublishOnly": "npm run build",
     "prepare": "husky"
   },
   "devDependencies": {
