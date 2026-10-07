@@ -1,5 +1,5 @@
 {
-  "name": "@apwide/vis-timeline",
+  "name": "vis-timeline",
   "version": "1.0.0",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "keywords": [
