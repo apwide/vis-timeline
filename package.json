@@ -1,6 +1,6 @@
 {
   "name": "vis-timeline",
-  "version": "101.0.0",
+  "version": "101.0.1",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "keywords": [
     "chart",
